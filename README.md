@@ -7,10 +7,8 @@ Major histocompatibility complex (MHC)-I molecules, encoded by the HLA-A, HLA-B,
 
 ## Files
 The repository contains five files:
-
-Four Jupyter notebooks with codes and results for the project.
-One zipped file named csv, including CSV files needed for running the Jupyter notebooks.
-The original CSV files were downloaded from IEDB(https://www.iedb.org/).
+  - Four Jupyter notebooks with codes and results for the project.
+  - One zipped file named csv, including CSV files needed for running the Jupyter notebooks. The original CSV files were downloaded from IEDB(https://www.iedb.org/).
 
 ## Environment
 The Jupyter notebook named "script3" needs to be opened and run in the RDKit environment. Installation instructions for RDKit can be found from https://www.rdkit.org/docs/Install.html.
