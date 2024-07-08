@@ -1,5 +1,5 @@
 
-# ML_PLS
+# ML_PLS_MHC_peptide_binding_pred
 This repository introduces a machine learning application using Partial Least Squares (PLS) to predict the binding affinity between MHC (A0201) and peptides of 9 or 10 amino acids in length, including at least one non-canonical amino acid.
 
 ## Background
