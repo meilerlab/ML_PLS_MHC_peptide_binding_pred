@@ -11,5 +11,6 @@ The repository contains five files:
   - One zipped file named csv, including CSV files needed for running the Jupyter notebooks. The original CSV files were downloaded from IEDB(https://www.iedb.org/).
 
 ## Environment
+Python 3.8 was used to implement the model.
 The Jupyter notebook named "script3" needs to be opened and run in the RDKit environment. Installation instructions for RDKit can be found from https://www.rdkit.org/docs/Install.html.
 
